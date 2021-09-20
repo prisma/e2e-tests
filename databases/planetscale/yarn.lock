@@ -666,10 +666,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@prisma/client@3.1.0-dev.29":
-  version "3.1.0-dev.29"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-3.1.0-dev.29.tgz#d92eb4a12f712f714e17606ad34f1754242b1557"
-  integrity sha512-qmMOTqzM1Nuqld9as+WqZcbdTpt/SpGgwMrjFwJsSNFzu4O7bwtJeVKZyugzCtomRhtb193whuCHSNptjeH7OQ==
+"@prisma/client@3.1.0-integration-studio-cli-esbuild-plugin.1":
+  version "3.1.0-integration-studio-cli-esbuild-plugin.1"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-3.1.0-integration-studio-cli-esbuild-plugin.1.tgz#5f7506de9196828e3970abf288932583aab201e6"
+  integrity sha512-pMlpFiThLdbW3beKCbewynYWgzzXHUjrWODXxdLdYyTj4KlfPLZ2bvhbbWJ0kEj7vXySDdWz8tQUAH13J9xSHg==
   dependencies:
     "@prisma/engines-version" "3.1.0-24.c22652b7e418506fab23052d569b85d3aec4883f"
 
@@ -2293,10 +2293,10 @@ pretty-format@^27.2.0:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-prisma@3.1.0-dev.29:
-  version "3.1.0-dev.29"
-  resolved "https://registry.yarnpkg.com/prisma/-/prisma-3.1.0-dev.29.tgz#7561743763665844cd4d0f2fe8ebd1e4b553e61e"
-  integrity sha512-1CX2NY3KaCm8Dd+3SeFZRkMbbwBmG4YGbCXEQjRkIQ1Ddg3fKYJItxcACG79lEQTjH78vG4czPynmfdvCVje5g==
+prisma@3.1.0-integration-studio-cli-esbuild-plugin.1:
+  version "3.1.0-integration-studio-cli-esbuild-plugin.1"
+  resolved "https://registry.yarnpkg.com/prisma/-/prisma-3.1.0-integration-studio-cli-esbuild-plugin.1.tgz#d1c42a0d9734e4245cad519e27ff365908d157b3"
+  integrity sha512-JTrjvDxDx0xO8dITSqp5fPeNqS3PYEhpgQEo+shYjF1o632m58f4tBRQFApo36BE8O5X81Hg1aXD0edOME6MBA==
   dependencies:
     "@prisma/engines" "3.1.0-24.c22652b7e418506fab23052d569b85d3aec4883f"
 

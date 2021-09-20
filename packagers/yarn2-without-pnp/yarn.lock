@@ -21,9 +21,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@prisma/client@npm:3.1.0-dev.29":
-  version: 3.1.0-dev.29
-  resolution: "@prisma/client@npm:3.1.0-dev.29"
+"@prisma/client@npm:3.1.0-integration-studio-cli-esbuild-plugin.1":
+  version: 3.1.0-integration-studio-cli-esbuild-plugin.1
+  resolution: "@prisma/client@npm:3.1.0-integration-studio-cli-esbuild-plugin.1"
   dependencies:
     "@prisma/engines-version": 3.1.0-24.c22652b7e418506fab23052d569b85d3aec4883f
   peerDependencies:
@@ -31,7 +31,7 @@ __metadata:
   peerDependenciesMeta:
     prisma:
       optional: true
-  checksum: b07efce8f7023dc47c684c04bd5aa991bb1e1f6e308d4f8a61d9b2ce192481625e3a5cc1c37760cf3dfaa04b79f960cc5940971611e6871378d830a13d1f3e52
+  checksum: 491c9bcdadec17e325b473f75d3cef420e39c91fa67a9e54144407e96798aaad36cb37f80175df59321dfab100d3e779c27c2287200256a52aa0b0939bdb3bed
   languageName: node
   linkType: hard
 
@@ -128,15 +128,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prisma@npm:3.1.0-dev.29":
-  version: 3.1.0-dev.29
-  resolution: "prisma@npm:3.1.0-dev.29"
+"prisma@npm:3.1.0-integration-studio-cli-esbuild-plugin.1":
+  version: 3.1.0-integration-studio-cli-esbuild-plugin.1
+  resolution: "prisma@npm:3.1.0-integration-studio-cli-esbuild-plugin.1"
   dependencies:
     "@prisma/engines": 3.1.0-24.c22652b7e418506fab23052d569b85d3aec4883f
   bin:
     prisma: build/index.js
     prisma2: build/index.js
-  checksum: e0e6c4a817518a7d690be7b1a3c860d511444776dbd601d256878b5fcfb36b1df1e733ccbd02767e915189045fca5c3bc3bea9af6ca9dc20c7f2c71606d140a4
+  checksum: 9d3103db1c800d93638f760f3a86b444f64892b38ebf598b0e511080100e18aeadbaec84b505c7f32de93ac2162319bb0bd32ed7964b6715cd424b06912c9622
   languageName: node
   linkType: hard
 
@@ -144,9 +144,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "script@workspace:."
   dependencies:
-    "@prisma/client": 3.1.0-dev.29
+    "@prisma/client": 3.1.0-integration-studio-cli-esbuild-plugin.1
     "@types/node": 12.20.25
-    prisma: 3.1.0-dev.29
+    prisma: 3.1.0-integration-studio-cli-esbuild-plugin.1
     ts-node: 10.2.1
     typescript: 4.2.4
   languageName: unknown
