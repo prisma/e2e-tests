@@ -77,10 +77,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:12.20.26":
-  version: 12.20.26
-  resolution: "@types/node@npm:12.20.26"
-  checksum: 24fbac7afc50eec4ec5319afb7b34048ef638490274852ee3e804046c07bbc8f3aba92a0c63dbd139d7dc8d572524ec7fc1cd17931373841f80cf21d02230150
+"@types/node@npm:14.17.18":
+  version: 14.17.18
+  resolution: "@types/node@npm:14.17.18"
+  checksum: a887552fdbf5b57062a84764f6b390b24acb5f1fe17a37610e5e04d2809818e604ad40b1e0cce3032a129fff2deeb70db5450dd5312cbf1ba1b9908e0fabee53
   languageName: node
   linkType: hard
 
@@ -145,7 +145,7 @@ __metadata:
   resolution: "script@workspace:."
   dependencies:
     "@prisma/client": 3.2.0-dev.8
-    "@types/node": 12.20.26
+    "@types/node": 14.17.18
     prisma: 3.2.0-dev.8
     ts-node: 10.2.1
     typescript: 4.2.4
