@@ -3,7 +3,7 @@
     "arg": "5.0.1",
     "fetch-retry": "5.0.1",
     "glob": "7.1.7",
-    "node-fetch": "2.6.4",
+    "node-fetch": "2.6.5",
     "yaml": "2.0.0-8"
   },
   "devDependencies": {
