@@ -14,7 +14,7 @@
   "devDependencies": {
     "@types/fs-extra": "9.0.13",
     "@types/jest": "27.0.2",
-    "@types/node": "14.14.39",
+    "@types/node": "14.17.18",
     "jest": "27.2.1",
     "prisma": "3.2.0-dev.8",
     "ts-jest": "27.0.5",
