@@ -16,7 +16,7 @@
 
 "@prisma/client@3.2.0-dev.8":
   version "3.2.0-dev.8"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-3.2.0-dev.8.tgz#756504128f44ab0d4767beb508a061ba18a7e503"
+  resolved "https://registry.npmjs.org/@prisma/client/-/client-3.2.0-dev.8.tgz"
   integrity sha512-OKuIxidDX+i3k5s/wvm5x3lPxDDxngvuU9nWLn4PG/XfgM1uax3cOkHvM2pn7G6oTcCuxt5Jcx58GIey0WU+GA==
   dependencies:
     "@prisma/engines-version" "3.2.0-7.9062d80f548ec5d0e7ae453788615b2b560510a8"
@@ -88,7 +88,7 @@ make-error@^1.1.1:
 
 prisma@3.2.0-dev.8:
   version "3.2.0-dev.8"
-  resolved "https://registry.yarnpkg.com/prisma/-/prisma-3.2.0-dev.8.tgz#92c80e0a02b7654da9cdb0e3a7f18da55ca39229"
+  resolved "https://registry.npmjs.org/prisma/-/prisma-3.2.0-dev.8.tgz"
   integrity sha512-Yo/EANhEdlM4WbC+4yqP1mNbwawzsKDsdex8LMjmWmKwfUSl7sAMcNO9gUODhNIfAuPj2PduPPAjUU1VqQNLrw==
   dependencies:
     "@prisma/engines" "3.2.0-7.9062d80f548ec5d0e7ae453788615b2b560510a8"
@@ -111,10 +111,10 @@ ts-node@10.2.1:
     make-error "^1.1.1"
     yn "3.1.1"
 
-typescript@4.2.4:
-  version "4.2.4"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-4.2.4.tgz"
-  integrity sha512-V+evlYHZnQkaz8TRBuxTA92yZBPotr5H+WhQ7bD3hZUndx5tGOa1fuCgeSjxAzM1RiN5IzvadIXTVefuuwZCRg==
+typescript@4.4.3:
+  version "4.4.3"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-4.4.3.tgz"
+  integrity sha512-4xfscpisVgqqDfPaJo5vkd+Qd/ItkoagnHpufr+i2QCHBsNYp+G7UAoyFl8aPtx879u38wPV65rZ8qbGZijalA==
 
 yn@3.1.1:
   version "3.1.1"
