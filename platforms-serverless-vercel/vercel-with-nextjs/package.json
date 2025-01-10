@@ -12,7 +12,7 @@
   "devDependencies": {
     "jest": "29.7.0",
     "prisma": "6.3.0-dev.4",
-    "vercel": "34.4.0"
+    "vercel": "39.2.6"
   },
   "dependencies": {
     "@prisma/client": "6.3.0-dev.4",
