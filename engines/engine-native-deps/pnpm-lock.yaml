@@ -6,17 +6,17 @@ settings:
 
 dependencies:
   '@prisma/client':
-    specifier: 6.3.0-dev.4
-    version: 6.3.0-dev.4
+    specifier: 6.3.0-integration-simpler-typeinfo-query.1
+    version: 6.3.0-integration-simpler-typeinfo-query.1
   zx:
     specifier: 8.2.4
     version: 8.2.4
 
 packages:
 
-  /@prisma/client@6.3.0-dev.4:
-    resolution: {integrity: sha512-MgkH57ZWwaa84yyvoRBqRVsEe/oXoQxekvnop/KQeLNLZz7U2C8Ydwpc/lz5IG/Mm1gNPe4d2L1PbFeWALU8gQ==}
-    engines: {node: '>=18.18'}
+  /@prisma/client@6.3.0-integration-simpler-typeinfo-query.1:
+    resolution: {integrity: sha512-LIbAp78IIPIFbtB6Gpb/i1cQkFtOAV6oBYB5Uq3RsAA46wKu2KbWzGoCTRmCo/DZ9xRSeeCllHSGtQhgzeG1XQ==}
+    engines: {node: '>=16.13'}
     requiresBuild: true
     peerDependencies:
       prisma: '*'
